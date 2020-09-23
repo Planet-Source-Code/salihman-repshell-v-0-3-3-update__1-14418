@@ -1,0 +1,16 @@
+frmMain = 110, 110, 455, 456, C, 88, 88, 433, 434, C
+modMain = 44, 44, 542, 492, C
+modGeneral = 65, 202, 581, 650, C
+modRas = 66, 66, 582, 514, C
+modReg = 69, 118, 585, 566, C
+modSubClassing = 278, 166, 794, 614, C
+frmStart = 88, 88, 604, 536, C, 154, 154, 670, 602, C
+modGraphics = 132, 132, 606, 580, C
+frmSettings = 66, 43, 533, 543, C, 88, 65, 555, 565, C
+modMenuDefs = 198, 198, 670, 644, C
+modShellDefs = 132, 132, 605, 580, C
+modMenu = 200, 198, 673, 646, C
+modSHChange = 132, 132, 603, 580, C
+frmTask = 88, 88, 557, 536, C, 68, 66, 537, 514, C
+modCommonDialog = 110, 110, 570, 558, C
+modMultimedia = 154, 154, 613, 602, C

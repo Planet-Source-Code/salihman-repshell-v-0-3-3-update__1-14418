@@ -1,0 +1,15 @@
+- How do I make a window bottom most and let it stay there without a flickering ?
+
+- How can I make the frmStart form detect when another program or form has got the focus
+  and unload itself, rather than putting the unloadcode in all the other subs and functions?
+
+- How can I draw the focus rect around the label in a different style, with the API 
+  DrawFocusRect ?
+
+- How do you properly use the Form - DrawMode Property to erase a line Drawn on the form
+  i.e.  DrawMode = ?
+	Line (10,10)-(20,20), &HFF
+        DrawMode = ?
+        Line (10,10)-(20,20), &HFF
+
+	The line should be erased at this point.
